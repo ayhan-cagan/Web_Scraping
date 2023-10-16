@@ -36,7 +36,9 @@ Bu uygulama, [arabam.com](https://www.arabam.com) gibi bir web sitesinden ilan b
 5.urls.txt adında bir metin dosyası oluşturun ve izlemek istediğiniz ilanların URL'lerini ekleyin:
 
 https://www.arabam.com/ilan/galeriden-satilik-land-rover-range-sport-3-0-sdv6-autobiography/2012-autobiography-3-0-sdv6-joystick-5bolge-kamera-buz-dolabi/23604878 price:2000000
+
 https://www.arabam.com/ilan/galeriden-satilik-bmw-5-serisi-520i-premium/2015-bmw-5-20i-premium-hayalet-e-vakum-perde-elk-bagaj-k-isitma/23598960 price:1600000
+
 ![Açıklama](wep_scrapın.jpg)
 
 
