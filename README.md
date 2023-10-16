@@ -44,13 +44,13 @@ https://www.arabam.com/ilan/galeriden-satilik-bmw-5-serisi-520i-premium/2015-bmw
 
 Uygulama, izlenen ilanlar için fiyat kontrolünü gerçekleştirir. Fiyat eşiklerine ulaşıldığında, kullanıcıları bilgilendirir.
 
-products tablosu, izlenen ilanların başlıklarını, fiyatlarını, kontrol edilen fiyatları ve kontrol zamanlarını içerir.
-id sütunu, her bir ilanın benzersiz kimliğini temsil eder.
-title sütunu, ilanın başlığını içerir.
-price sütunu, ilanın anlık fiyatını tutar.
-check_price sütunu, kontrol edilen fiyatı tutar.
-date sütunu, kontrol zamanını temsil eder.
-site sütunu, verinin hangi siteden geldiğini belirtir.
+-products tablosu, izlenen ilanların başlıklarını, fiyatlarını, kontrol edilen fiyatları ve kontrol zamanlarını içerir.
+-id sütunu, her bir ilanın benzersiz kimliğini temsil eder.
+-title sütunu, ilanın başlığını içerir.
+-price sütunu, ilanın anlık fiyatını tutar.
+-check_price sütunu, kontrol edilen fiyatı tutar.
+-date sütunu, kontrol zamanını temsil eder.
+-site sütunu, verinin hangi siteden geldiğini belirtir.
 
 
 
